@@ -102,7 +102,7 @@ FoS = Material Strength / Bending Stress
 
 ## Code Structure
 
-### HelicalGearGeometry
+### Helical Gear Geometry
 
 Responsible for:
 
@@ -110,7 +110,7 @@ Responsible for:
 * Diameter calculations
 * Tooth geometry parameters
 
-### GearLoading
+### Gear Loading
 
 Responsible for:
 
@@ -119,7 +119,7 @@ Responsible for:
 * Axial thrust calculations
 * Resultant force calculations
 
-### GearStrength
+### Gear Strength
 
 Responsible for:
 
@@ -252,5 +252,3 @@ Planned developments include:
 
 Muskan Borgohain
 
-* Mechanical Design
-* Computational Engineering
